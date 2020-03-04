@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fruit
+  - bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - thus
+  - this
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgroud
+    uniqueID: 1287516413
+    locked: 0
+  - name: Ground
+    uniqueID: 636209489
+    locked: 0
+  - name: Fruit
+    uniqueID: 2636045869
+    locked: 0
+  - name: Shakers
+    uniqueID: 438334673
+    locked: 0
+  - name: UI
+    uniqueID: 1653332501
+    locked: 0
